@@ -55,7 +55,7 @@ PANIC.
 ## How it looks
 
 
-![A gif showing how it looks in action]()
+![A gif showing how it looks in action](tofiwifi.gif)
 
 
 <!-- ROADMAP -->
