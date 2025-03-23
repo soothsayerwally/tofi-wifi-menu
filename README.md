@@ -41,7 +41,7 @@ Edit the included config to your will or just edit tofi-wifi-menu.sh to point to
 * Hyprland example: 
 	add this to ~/.config/hypr/hyprland.conf
    ```
-   bind = $mainMod, N, exec, /path-to/wifi-menu.sh
+   bind = $mainMod, N, exec, /path-to/tofi-wifi-menu.sh
    ```
 
 
