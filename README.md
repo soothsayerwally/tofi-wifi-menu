@@ -48,6 +48,9 @@ Edit the included config to your will or just edit tofi-wifi-menu.sh to point to
 zenity uses gtk so to change how it looks, change your gtk theme using something like [nwg-look](https://github.com/nwg-piotr/nwg-look)
 
 
+It takes some time for the password prompt to reappear if you enter a wrong password. DO NO
+PANIC.
+
 <!-- How it looks -->
 ## How it looks
 
