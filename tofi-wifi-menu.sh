@@ -19,7 +19,7 @@ while true; do
     wifi_list=$(scan_wifi)
 
     # Display Wi-Fi menu
-    selected_wifi=$(echo "$wifi_list" | tofi -c ~/.config/tofi/configN) # Replace with your own config
+    selected_wifi=$(echo "$wifi_list" | tofi -c configN) # Replace with your own config
     
     # Extract SSID
     ssid=$(echo "$selected_wifi")
